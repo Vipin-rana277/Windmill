@@ -1,0 +1,117 @@
+.login-box {
+    margin: 0 30px;
+    width: 35%;
+
+}
+
+.label-email {
+    display: block;
+    margin: 7px 0;
+}
+
+#email {
+    display: block;
+    width: 100%;
+    padding: 10px 10px;
+    border-color: #d5d6d7;
+    border-radius: 7px;
+    margin: 12px 0;
+}
+
+.label-password {
+    display: block;
+    margin: 7px 0;
+}
+
+#password {
+    display: block;
+    width: 100%;
+    padding: 10px 10px;
+    border-color: #d5d6d7;
+    border-radius: 7px;
+}
+
+.btn-login {
+    width: 68%;
+    cursor: pointer;
+    background-color: #7e3af2;
+    border-color: #7e3af2;
+    color: white;
+    margin: 25px 0;
+    padding: 10px 65px;
+    border-radius: 7px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    opacity: 0.9;
+}
+
+.btn-login:hover {
+    opacity: 1;
+}
+
+.btn-github {
+    width: 108%;
+    display: block;
+    cursor: pointer;
+    border: 2px solid #d5d6d7;
+    background-color: white;
+    margin: 20px 0;
+    padding: 7px 63px;
+    border-radius: 7px;
+}
+
+.btn-twitter {
+    width: 108%;
+    display: block;
+    cursor: pointer;
+    border: 2px solid #d5d6d7;
+    background-color: white;
+    margin: 10px 0;
+    padding: 7px 64px;
+    border-radius: 7px;
+}
+
+.aaa {
+    display: block;
+    text-decoration: none;
+    margin: 7px 0;
+}
+
+.aaa:hover {
+    text-decoration: underline;
+}
+
+.line {
+    width: 107%;
+    background-color: #e2e8f0;
+}
+
+.pageOfLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 62%;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 7px;
+    margin: auto;
+    margin-top: 6%;
+    box-shadow: 10px 10px 10px 10px whitesmoke;
+}
+
+.ImageOfLogin {
+    width: 512px;
+    height: 504px;
+    position: relative;
+    left: -23px;
+    top: 0;
+}
+
+.containerOfLogin {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}

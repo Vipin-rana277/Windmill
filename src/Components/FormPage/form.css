@@ -1,0 +1,123 @@
+label {
+    display: block;
+}
+
+.element {
+    border: 2px solid rgb(209, 199, 199);
+    box-shadow: 8px 8px 4px 8px rgb(185, 180, 180);
+    padding: 5px;
+    width: 100%;
+    border-radius: 7px;
+}
+
+
+.validation {
+    border: 2px solid rgb(209, 199, 199);
+    box-shadow: 8px 8px 8px 8px rgb(185, 180, 180);
+    padding: 5px;
+    width: 100%;
+    border-radius: 7px;
+}
+
+.icon {
+    border: 2px solid rgb(209, 199, 199);
+    box-shadow: 8px 8px 8px 8px rgb(185, 180, 180);
+    padding: 5px;
+    width: 100%;
+    border-radius: 7px;
+}
+
+.button {
+    border: 2px solid rgb(209, 199, 199);
+    box-shadow: 8px 8px 8px 8px rgb(185, 180, 180);
+    padding: 5px;
+    width: 100%;
+    border-radius: 7px;
+}
+
+#elementChildOne {
+    border: 2px solid #f6e9e9;
+    width: 99%;
+    padding: 11px;
+    border-radius: 7px;
+    margin: 5px 0;
+}
+
+#elementChildTwo {
+    border: 2px solid rgb(176, 167, 167);
+    background-color: rgb(176, 167, 167);
+    width: 99%;
+    padding: 11px;
+    border-radius: 7px;
+    margin: 5px 0;
+}
+
+#elementChildThree {
+    border: 2px solid #f6e9e9;
+    width: 99%;
+    padding: 11px;
+    border-radius: 7px;
+    margin: 5px 0;
+}
+
+#validationChildOne {
+    border: 2px solid #f6e9e9;
+    width: 99%;
+    padding: 11px;
+    border-radius: 7px;
+    margin: 5px 0;
+}
+
+#validationChildTwo {
+    border: 2px solid #f6e9e9;
+    width: 99%;
+    padding: 11px;
+    border-radius: 7px;
+    margin: 5px 0;
+}
+
+#validationChildThree {
+    border: 2px solid #f6e9e9;
+    width: 99%;
+    padding: 11px;
+    border-radius: 7px;
+    margin: 5px 0;
+}
+
+#iconChildOne {
+    border: 2px solid #f6e9e9;
+    width: 99%;
+    padding: 11px;
+    border-radius: 7px;
+    margin: 5px 0;
+}
+
+#iconChildTwo {
+    border: 2px solid #f6e9e9;
+    width: 99%;
+    padding: 11px;
+    border-radius: 7px;
+    margin: 5px 0;
+}
+
+#buttonChildOne {
+    border: 2px solid #f6e9e9;
+    width: 99%;
+    padding: 11px;
+    border-radius: 7px;
+    margin: 5px 0;
+}
+
+#buttonChildTwo {
+    border: 2px solid #f6e9e9;
+    width: 99%;
+    padding: 11px;
+    border-radius: 7px;
+    margin: 5px 0;
+}
+
+#textField {
+    border: " 2px solid rgb(214, 207, 207)";
+    color: "grey";
+    display: block;
+}

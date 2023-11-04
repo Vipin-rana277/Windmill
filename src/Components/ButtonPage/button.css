@@ -1,0 +1,208 @@
+button {
+    margin: 0 12px;
+}
+
+.largerbtn {
+    cursor: pointer;
+    background-color: #7e3af2;
+    border-color: #7e3af2;
+    color: white;
+    width: 17%;
+    height: 25%;
+    border-radius: 8px;
+    font-size: larger;
+    opacity: 0.9;
+
+}
+
+.largerbtn:hover {
+    opacity: 1;
+}
+
+.largebtn {
+    cursor: pointer;
+    background-color: #7e3af2;
+    border-color: #7e3af2;
+    color: white;
+    width: 14%;
+    height: 21%;
+    border-radius: 8px;
+    font-size: large;
+    opacity: 0.9;
+}
+
+.largebtn:hover {
+    opacity: 1;
+}
+
+.regularbtn {
+    cursor: pointer;
+    background-color: #7e3af2;
+    border-color: #7e3af2;
+    color: white;
+    width: 11%;
+    height: 18%;
+    border-radius: 8px;
+    font-size: smaller;
+    opacity: 0.9;
+}
+
+.regularbtn:hover {
+    opacity: 1;
+}
+
+.routerbtn {
+    cursor: pointer;
+    background-color: #7e3af2;
+    border-color: #7e3af2;
+    color: white;
+    width: 11%;
+    height: 18%;
+    border-radius: 8px;
+    font-size: smaller;
+    opacity: 0.9;
+}
+
+.routerbtn:hover {
+    opacity: 1;
+}
+
+.smallbtn {
+    cursor: pointer;
+    background-color: #7e3af2;
+    border-color: #7e3af2;
+    color: white;
+    width: 6%;
+    height: 12%;
+    border-radius: 8px;
+    font-size: small;
+    opacity: 0.9;
+}
+
+.smallbtn:hover {
+    opacity: 1;
+}
+
+.disablebtn {
+    background-color: #7e3af2;
+    border-color: #7e3af2;
+    color: white;
+    width: 8%;
+    height: 15%;
+    border-radius: 8px;
+    font-size: small;
+    opacity: 0.5;
+}
+
+.outlinelargerbtn {
+    cursor: pointer;
+    width: 17%;
+    height: 25%;
+    border-radius: 8px;
+    font-size: larger;
+    border: 2px solid rgb(190, 183, 183);
+    background-color: white;
+}
+
+.outlinelargebtn {
+    cursor: pointer;
+    width: 14%;
+    height: 21%;
+    border-radius: 8px;
+    font-size: larger;
+    border: 2px solid rgb(190, 183, 183);
+    background-color: white;
+}
+
+.outlineregularbtn {
+    cursor: pointer;
+    width: 11%;
+    height: 18%;
+    border-radius: 8px;
+    font-size: larger;
+    border: 2px solid rgb(190, 183, 183);
+    background-color: white;
+}
+
+.outlinerouterbtn {
+    cursor: pointer;
+    width: 11%;
+    height: 18%;
+    border-radius: 8px;
+    font-size: larger;
+    border: 2px solid rgb(190, 183, 183);
+    background-color: white;
+}
+
+.outlinedisablebtn {
+    cursor: pointer;
+    width: 8%;
+    height: 15%;
+    border-radius: 8px;
+    font-size: larger;
+    border: 2px solid rgb(190, 183, 183);
+    background-color: rgb(200, 196, 196);
+}
+
+.outlinesmallbtn {
+    cursor: pointer;
+    width: 6%;
+    height: 12%;
+    border-radius: 8px;
+    font-size: small;
+    background-color: white;
+    border: 2px solid rgb(190, 183, 183);
+}
+.linklargerbtn {
+    cursor: pointer;
+    width: 17%;
+    height: 25%;
+    font-size: larger;
+    border: 2px solid white;
+    background-color: white;
+}
+
+.linklargebtn {
+    cursor: pointer;
+    width: 14%;
+    height: 21%;
+    font-size: larger;
+    border: 2px solid white;
+    background-color: white;
+}
+
+.linkregularbtn {
+    cursor: pointer;
+    width: 11%;
+    height: 18%;
+    font-size: larger;
+    border: 2px solid white;
+    background-color: white;
+}
+
+.linkrouterbtn {
+    cursor: pointer;
+    width: 11%;
+    height: 18%;
+    font-size: larger;
+    border: 2px solid white;
+    background-color: white;
+}
+
+.linkdisablebtn {
+    cursor: pointer;
+    width: 8%;
+    height: 15%;
+    font-size: larger;
+    border: 2px solid white;
+    background-color: rgb(242, 237, 237);
+}
+
+.linksmallbtn {
+    cursor: pointer;
+    width: 6%;
+    height: 12%;
+    font-size: small;
+    background-color: white;
+    border: 2px solid white;
+}

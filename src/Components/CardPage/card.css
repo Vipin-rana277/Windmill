@@ -1,0 +1,30 @@
+.section-child {
+    border: 2px solid rgb(209, 199, 199);
+    box-shadow: 0 0 8px 0 rgb(185, 180, 180);
+    border-radius: 7px;
+    padding: 8px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardsRevenue {
+    border: 2px solid rgb(209, 199, 199);
+    width: 49%;
+    height: 50%;
+    border-radius: 7px;
+    padding: 8px;
+
+}
+
+.cardsColor {
+    border: 2px solid rgb(209, 199, 199);
+    width: 49%;
+    height: 50%;
+    background-color: #7e3af2;
+    color: white;
+    border-radius: 7px;
+    padding: 8px;
+}

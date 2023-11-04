@@ -1,0 +1,36 @@
+.email {
+    display: block;
+}
+.btn-recover {
+    width: 112%;
+    cursor: pointer;
+    background-color: #7e3af2;
+    border-color: #7e3af2;
+    color: white;
+    margin: 18px 0;
+    padding: 10px 65px;
+    border-radius: 7px;
+    text-decoration: none;
+}
+#email-input {
+    display: block;
+    width: 102%;
+    padding: 10px 10px;
+    border-color: #d5d6d7;
+    border-radius: 7px;
+    margin: 12px 0;
+}
+.imageOfPage{
+    width: 58%;
+    position: relative;
+    right: 54px;
+}
+.forgotPage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 55%;
+    border: 2px solid #d5d6d7;
+    margin: auto;
+    margin-top: 10%;
+}

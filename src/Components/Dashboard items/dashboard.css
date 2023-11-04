@@ -1,0 +1,53 @@
+h3 {
+    margin-left: 1.2rem;
+}
+
+.css-1f2xuhi-MuiDrawer-docked .MuiDrawer-paper {
+    margin: -72px 0;
+}
+
+.css-hyum1k-MuiToolbar-root {
+    background-color: white;
+    color: blue;
+}
+
+.css-96uuyl {
+    border: 2px solid #e9e1e1;
+    width: 43rem !important;
+    color: #242020;
+}
+
+.css-h4y409-MuiList-root {
+    margin: -10px 0 !important;
+}
+
+.box-child {
+    height: 14vh;
+    width: 19vw;
+    border: 2px solid #e9e1e1;
+    border-radius: 8px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-innerside {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-innerside div img{
+    margin: 0 0.5rem;
+}
+.chart{
+    display: flex;
+    justify-content: space-between;
+}
+.chart-child{
+    border: 2px solid rgb(214, 207, 207);
+    border-radius: 7px;
+    width: 47%;
+    padding: 1rem;
+}
